@@ -16,10 +16,10 @@ import time
 
 file_path = 'vector-openai.pkl'
 # Set your OpenAI API key
-openai_api_key = "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"
+openai_api_key = "your openai_api_key"
 
 # Set your HuggingFace Hub API token
-huggingface_api_token = "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"
+huggingface_api_token = "your huggingface_api_token"
 
 
 def get_pdf_text(pdf_docs):
